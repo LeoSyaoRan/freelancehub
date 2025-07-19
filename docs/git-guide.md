@@ -41,8 +41,6 @@ Gửi PR để merge vào main hoặc nhánh liên quan (frontend, backend)
 
 Ví dụ:
 feat: thêm chức năng đăng ký tài khoản
-fix: sửa lỗi gọi API khi đăng nhập
-docs: cập nhật hướng dẫn Git
 
 ## 8. Cập nhật code mới từ nhánh main:
 `bash`
