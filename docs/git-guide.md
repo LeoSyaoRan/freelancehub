@@ -31,12 +31,13 @@ Chọn Compare & Pull Request
 Gửi PR để merge vào main hoặc nhánh liên quan (frontend, backend)
 
 ## 7. Quy ước đặt commit:
-Tiền tố      Ý nghĩa
-feat:	      Thêm chức năng mới
-fix:	      Sửa lỗi
-docs:	      Cập nhật tài liệu
-refactor:	  Cải tiến code
-style:	    Thay đổi giao diện, style
+| Tiền tố     | Ý nghĩa                   |
+| ----------- | ------------------------- |
+| `feat:`     | Thêm chức năng mới        |
+| `fix:`      | Sửa lỗi                   |
+| `docs:`     | Cập nhật tài liệu         |
+| `refactor:` | Cải tiến code             |
+| `style:`    | Thay đổi giao diện, style |
 
 Ví dụ:
 feat: thêm chức năng đăng ký tài khoản
